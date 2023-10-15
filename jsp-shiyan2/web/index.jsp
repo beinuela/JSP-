@@ -13,11 +13,11 @@
   <body>
   <font face="楷体">  <h1 align="center">个人信息展示</h1> </font>
   <hr>
-  <table border="1" align="center">
+  <table border="1" align="center" cellspacing="0" width="1000">
     <tr>
       <td>
         基本信息:<br>
-        吴垚滔,歌手。
+        <a href="https://baike.baidu.com/item/%E5%90%B4%E5%9E%9A%E6%BB%94" target="_blank">吴垚滔</a>,《舞台2023》歌手。
       </td>
       <td>主要代表歌曲:
         <ul>
@@ -30,10 +30,9 @@
       </td>
     </tr>
     <tr>
-      <td>形象展示:
+      <td colspan="2">形象展示:
         <img src="WYT.jpg" height="500" width="300">
       </td>
-      <td></td>
     </tr>
   </table>
   <hr>
